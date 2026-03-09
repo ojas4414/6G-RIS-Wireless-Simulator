@@ -1,0 +1,26 @@
+# Environments
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Models & Datasets
+models/
+dataset/
+*.npy
+*.pkl
+hand_landmarker.task
+
+# Logs
+*.log
+*.txt
+
+# IDEs
+.vscode/
+.idea/
+
+# React is covered inside react-app/.gitignore
